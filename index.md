@@ -7,9 +7,9 @@ and strategies of using cross-platform technologies
 # Module 1 Intro to Virtual Computing Environments
 -------------
 
-==Important words==
+<mark> I love you <mark> 💙
 
-- [] 1-1 Initail Discussion: Virtual Environments
+- [X] 1-1 Initail Discussion: Virtual Environments
 - [] 1-2 Module One Quiz
-- [] 1-3 Acitivity: Explore a Virtual Desktop Infrastructure 
+- [X] 1-3 Acitivity: Explore a Virtual Desktop Infrastructure 
 - [] 1-4 Review Project
